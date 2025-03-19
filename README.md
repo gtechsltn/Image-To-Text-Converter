@@ -5,7 +5,7 @@
 * [Log4Net](https://github.com/gtechsltn/ConsoleApp/blob/master/ConsoleApp1/Src/App.config)
 * .NET (C#)
 
-# App.config
+# Log4net (App.config)
 ```
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <configuration>
@@ -47,6 +47,25 @@
     </root>
   </log4net>
 </configuration>
+```
+
+# Log4net (Program.cs)
+```
+using System;
+using Tesseract;
+
+namespace ImageToTextConverter.ConsoleApp
+{
+    class Program
+    {
+        private static readonly ILog log = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
+        static void Main()
+        {
+            log4net.Config.XmlConfigurator.Configure();
+            log.Info("Hello World");
+        }
+    }
+}
 ```
 
 # Console App
