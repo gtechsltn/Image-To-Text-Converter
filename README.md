@@ -4,6 +4,7 @@
 * [ConsoleApp Template](https://github.com/gtechsltn/ConsoleApp)
 * [Log4Net](https://github.com/gtechsltn/ConsoleApp/blob/master/ConsoleApp1/Src/App.config)
 * [ConsoleApp in .NET (C#)](https://github.com/gtechsltn/ConsoleApp/blob/master/ConsoleApp1/Src/Program.cs)
+* [Copy to Output Directory](https://dev.to/karenpayneoregon/visual-studio-copying-files-to-debug-or-release-folder-3onj)
 
 # C# Converter Image to Text
 * [ChatGPT](https://chatgpt.com/share/67da3994-35c4-8013-9308-b21cf8cc427a)
