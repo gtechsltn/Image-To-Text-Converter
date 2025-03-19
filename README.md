@@ -5,6 +5,12 @@
 * [Log4Net](https://github.com/gtechsltn/ConsoleApp/blob/master/ConsoleApp1/Src/App.config)
 * [ConsoleApp in .NET (C#)](https://github.com/gtechsltn/ConsoleApp/blob/master/ConsoleApp1/Src/Program.cs)
 
+# C# Converter Image to Text
+* [ChatGPT](https://chatgpt.com/share/67da3994-35c4-8013-9308-b21cf8cc427a)
+
+# C# Translate English to Vietnamese
+* [ChatGPT](https://chatgpt.com/share/67da3994-35c4-8013-9308-b21cf8cc427a)
+
 # Log4net (App.config)
 ```
 ﻿<?xml version="1.0" encoding="utf-8"?>
