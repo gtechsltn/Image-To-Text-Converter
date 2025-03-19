@@ -2,6 +2,7 @@
 * [ChatGPT](https://chatgpt.com/)
 * [Tessdata](https://github.com/tesseract-ocr/tessdata)
 * [ConsoleApp](https://github.com/gtechsltn/ConsoleApp)
+* [Log4Net](https://github.com/gtechsltn/ConsoleApp/blob/master/ConsoleApp1/Src/App.config)
 * .NET (C#)
 
 # Console App
