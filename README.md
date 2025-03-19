@@ -70,10 +70,11 @@ namespace ImageToTextConverter.ConsoleApp
 ```
 
 # TessData: 
-* Download eng.traineddata
-* https://github.com/tesseract-ocr/tessdata
-* Download vie.traineddata
-* https://github.com/gtechsltn/tessdata
+* Download eng.traineddata, vie.traineddata
+* From:
+  * https://github.com/tesseract-ocr/tessdata
+  * https://github.com/gtechsltn/tessdata
+* Set the Build action => Copy to output directory: **Copy always**
 
 ## IMPORTANT
 ```
