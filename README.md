@@ -75,6 +75,16 @@ namespace ImageToTextConverter.ConsoleApp
 * Download vie.traineddata
 * https://github.com/gtechsltn/tessdata
 
+## IMPORTANT
+```
+In the file properties in Solution Explorer in Visual Studio, set:
+From:
+    Build action: None
+To:
+    Copy to output directory: Copy always
+```
+
+## Examples
 ```
 MyProject/
 ├── bin/
