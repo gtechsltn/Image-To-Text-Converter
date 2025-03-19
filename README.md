@@ -74,15 +74,15 @@ namespace ImageToTextConverter.ConsoleApp
 * From:
   * https://github.com/tesseract-ocr/tessdata
   * https://github.com/gtechsltn/tessdata
-* Set the Build action => Copy to output directory: **Copy always**
+* Copy to output directory: **Copy always**
+
+![Copy to output directory: **Copy always**](https://github.com/user-attachments/assets/8613c6ef-3f42-4f14-a8d8-6a74c5d5df36)
 
 ## IMPORTANT
 ```
 In the file properties in Solution Explorer in Visual Studio, set:
-From:
-    Build action: None
-To:
-    Copy to output directory: Copy always
+Build action: None
+Copy to output directory: Copy always
 ```
 
 ## Examples
