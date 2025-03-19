@@ -1,6 +1,7 @@
 # Image to Text Converter in C#
 * [ChatGPT](https://chatgpt.com/)
 * [Tessdata](https://github.com/tesseract-ocr/tessdata)
+* [ConsoleApp](https://github.com/gtechsltn/ConsoleApp)
 * .NET (C#)
 
 # Console App
