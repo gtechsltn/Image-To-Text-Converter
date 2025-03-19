@@ -69,6 +69,21 @@ namespace ImageToTextConverter.ConsoleApp
 }
 ```
 
+# TessData: 
+* Download eng.traineddata
+* https://github.com/tesseract-ocr/tessdata
+* Download vie.traineddata
+* https://github.com/gtechsltn/tessdata
+
+```
+MyProject/
+├── bin/
+├── tessdata/
+│   ├── eng.traineddata
+│   ├── other_lang.traineddata (optional)
+├── Program.cs
+```
+
 # Console App
 ```
 using System;
