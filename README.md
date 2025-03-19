@@ -51,8 +51,9 @@
 
 # Log4net (Program.cs)
 ```
+using log4net;
 using System;
-using Tesseract;
+using System.Reflection;
 
 namespace ImageToTextConverter.ConsoleApp
 {
